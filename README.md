@@ -26,7 +26,7 @@ Users
 
 Calendars
 
-* **Calendars** have an **calendar_id** and an **ispublic** attribute that signifies if it is a public or private calendar.  
+* **Calendars** have a **calendar_id** and an **ispublic** attribute that signifies if it is a public or private calendar.  
 * Each calendar is **owned** by a single user.  A calendar cannot exist without an owner, and its **calendar_id** is unique globally across all users.  
 * A calendar can be shared with many users, and a user can have multiple calendars shared with them.
 
@@ -46,7 +46,7 @@ Rooms
 
 * **Rooms** have **room_id**, **floor**, and **building**.
 * **room_id** uniquely identify the room.
-* Each meeting can optionally has a room. However, each meeting can have at most one room. 
+* Each meeting can optionally have a room. However, each meeting can have at most one room. 
 * Each room has an optional **link** for remote attendees.
 
 State any assumptions you make.
@@ -62,20 +62,20 @@ State any assumptions you make.
 Notes
 
 * You can draw the diagram by hand and scan it, or use an app like powerpoint or https://app.diagrams.net/
-* If you scan a diagram, make sure it is easily legible.  Parts that the staff cannot read/interpret will be maked as incorrect.
+* If you scan a diagram, make sure it is easily legible.  Parts that the staff cannot read/interpret will be considered incorrect.
 * If the specification does not explicitly provide a key attribute for an entity set, you can assume there is an id.
 
 
 
 ## 1.2. (5 points) More Database Design
 
-GitHub is a web based Git repository hosting service that provides version control and source code management functionality. It provides several collaboarative features like bug tracking, task management, contribution analytics for every project. Handling big code-bases and with multiple people working on them, indeed becomes a tedious task, GitHub helps to make this exercise easier. GitHub’s bug tracker is called Issues, and has its own section in every repository. Issues are kind of like shared e-mails, and a great way to keep track of tasks, enhancements, and bugs for the projects. You may learn more about github issues at [Github-Issues](https://guides.github.com/features/issues/) 
+GitHub is a web based Git repository hosting service that provides version control and source code management functionality. It provides several collaboarative features like bug tracking, task management, and contribution analytics for every project. Handling big code bases and with multiple people working on them, indeed becomes a tedious task, GitHub helps to make this exercise easier. GitHub’s bug tracker is called Issues, and has its own section in every repository. Issues are kind of like shared e-mails, and a great way to keep track of tasks, enhancements, and bugs for the projects. You may learn more about github issues at [Github-Issues](https://guides.github.com/features/issues/) 
 
-Visit the issues page of any public repository on Github, For example visit [Tensorflow-Issues](https://github.com/tensorflow/tensorflow/issues). Analyze the page and the linked issue pages to understand its data requirements.  
+Visit the issues page of any public repository on Github, For example, visit [Tensorflow-Issues](https://github.com/tensorflow/tensorflow/issues). Analyze the page and the linked issue pages to understand its data requirements.  
 
 Then, 
 
-* design an E-R diagram for the website that captures its main functionality of issues, and comments.
+* Design an E-R diagram for the website that captures its main functionality of issues, and comments.
 * Include at least 4 entities, 4 relationships, and 3 constraints, in the same format as part 1 of this homework.
 * 2 of the entities should be **Issues** and **comments**.  You are free to choose the other two.
 * For each entity, relationship and constraint, include a 1-2 sentence description that justifies your decision to include it and design it in the matter that you did.
