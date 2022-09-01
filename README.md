@@ -1,9 +1,9 @@
 # Homework 1
 
-* Assigned: TBD
+* Assigned: 9/8
 * Due:
-    * Part 1: TBD
-    * Part 2: TBD
+    * Part 1: 9/16 11:59PM on Gradescope
+    * Part 2: TBA
     * (Part 1 and Part 2 are due separately!)
 * Value: 3.75% of your grade
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**
@@ -83,4 +83,4 @@ Then,
 
 # Part 2
 
-# TBD
+## TBA
