@@ -45,7 +45,7 @@ Events
 Rooms
 
 * **Rooms** have **room_id**, **floor**, and **building**.
-* **room_id** uniquely identify the room.
+* **room_id** uniquely identifies the room.
 * Each meeting can optionally have a room. However, each meeting can have at most one room. 
 * Each room has an optional **link** for remote attendees.
 
