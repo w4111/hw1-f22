@@ -2,12 +2,17 @@
 
 * Assigned: 9/8
 * Due:
-    * Part 1: 9/16 11:59PM on Gradescope
+    * Part 1: 9/16 11:59PM on Gradescope.  
     * Part 2: TBA
     * (Part 1 and Part 2 are due separately!)
 * Value: 3.75% of your grade
 * Done and submitted individually (as with all the homeworks) **via [Gradescope](https://www.gradescope.com)**
 * For ER diagrams, please limit what you use in your diagrams to what was covered in class.  We will penalize ER diagrams that use features not covered.
+
+
+GRADESCOPE
+
+* Use the link https://www.gradescope.com/courses/436228 with the code **2K2KP3152**
 
 
 # Part 1
