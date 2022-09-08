@@ -12,7 +12,8 @@
 
 GRADESCOPE
 
-* Use the link https://www.gradescope.com/courses/436228 with the code **2K2KP3152**
+* Use the link https://www.gradescope.com/courses/436228 with the code **2K2KP3**
+* If you do not already have an account, use your `xx1234@columbia.edu` email!
 
 
 # Part 1
