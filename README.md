@@ -89,4 +89,30 @@ Then,
 
 # Part 2
 
-## TBA
+## 2.1. (5 points) Logical Database Design
+
+Write the SQL `CREATE TABLE` statements and relevant constraints to convert the following ER diagram into a relational schema.  If some constraints in the ER diagram cannot be captured in the relational model, explain why.
+
+<a href="diag1_hw1p2.png"><img src="diag1_hw1p2.png"/></a>
+
+
+
+## 2.2. (2 points) More ER Diagrams
+
+
+Suppose your colleague Bob decided to download the following health dataset concerning hospitals, patient bills, and the insurance providers.   The datasetcontains the following sample rows:
+
+    hospital  city    state  patient  cost  provider
+    ------------------------------------------------------
+    MGH       Boston  MA     eugene    100  unitedhealth
+    MGH       Boston  MA     alice     101  unitedhealth
+    MGH       Boston  MA     mort     1000  unitedhealth
+    Mt Sinai  NY      NY     bob         5  aetna
+    Mt Sinai  NY      NY     daisy       2  aetna
+
+
+Bob wanted to draw an ER diagram that expressed the relations between entities of this specific dataset, so he came up with the following:
+
+<a href="diag2_hw1p2.png"><img src="diag2_hw1p2.png"/></a>
+
+What is the mistake in Bob's approach for this problem? Draw a corrected ER diagram, or explain why it is not possible to do so.
